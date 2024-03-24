@@ -1,0 +1,7 @@
+Nama Kelompok : IF8-Naïve Bayes (Penambangan Data) dan IF8-Scatter (Kecerdasan Bisnis dan Visualisasi Data)
+Anggota Kelompok :
+	1. 10121295 - Rifai Nugroho, Bertugas untuk Mencari Dataset, Preprocessing Data, Membuat Visualisasi Data, dan Melakukan Perhitungan Model Naive Bayes
+	2. 10121309 - Kristanto, Bertugas untuk Membuat Visualisasi di Tableu dan Mengerjakan Perhitungan Manual
+	3. 10121311 - Rafly Sidiq Hermawan, Bertugas untuk Membuat Laporan
+Kelas : IF8
+Judul Tugas Besar : Seattle Weather
