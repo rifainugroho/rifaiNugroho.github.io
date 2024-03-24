@@ -1,0 +1,5 @@
+Kelompok 1 | Klasifikasi Gambar dengan Rock - Paper - Scissors Menggunakan Metode CNN
+10121295 - Rifai Nugroho
+10121297 - Aditya Suryana
+10121309 - Kristanto
+10121318 - Bagus Aimar Atqansyah
